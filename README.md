@@ -1,22 +1,26 @@
-### Hey there, my name's Claire 👋
+### Hello 🌍, my name's Claire (she/her) 👋
 
-I'm an engineer (she/her) in Cambridge who found my way into the world of software by saying ✨ Hello 🌍 ✨ a few times!
+I'm a Software Engineer working in Cambridge at Samsung, with a background in Information & Bio Engineering!
 
-I mainly work in Python 🐍 and JavaScript 💻 day to day on full stack web app development (Flask) and web automation (Selenium) for data analysis, with some use of C/C++ to spice things up!
+I create internal tools for data analysis and frameworks for automated testing.
 
-I'm interested in all things machine learning and artificial intelligence-related (including the excellent early-noughties movie starring Jude Law 🤖...) and the ways we can apply these to help improve our everyday lives!
+I mainly work with Python 🐍 and JavaScript 💻 for full stack web development, web automation and CLI-based projects, with the occasional bit of C/C++ thrown in!
 
-Want to chat about any of the above?
+#### 📙 Past Projects:
+Interested in all things ML/AI related (including the excellent early-noughties movie starring Jude Law 🤖...)?
 
-You can find me here: [![LinkedIn][1.1]][1]
+Interested in applications of tech to medical diagnosis? 🧑‍⚕️
 
-<!-- Icons -->
+Well then, why not check out [4YP](https://github.com/ClaireRes/4YP), my Masters project applying Deep Learning to predict respiratory disorders, such as asthma and COPD, from non-invasive imaging data!
 
-[1.1]: https://user-images.githubusercontent.com/46686363/136098843-41a195c6-9376-4264-a999-935bae14cf02.png
 
-<!-- Links to social media accounts -->
+#### 📫 Contact me:
 
-[1]: https://www.linkedin.com/in/claire-restarick-b51701167/
+You can find me here on Socials here:
+
+<a href="https://www.linkedin.com/in/claire-restarick/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/46686363/136098843-41a195c6-9376-4264-a999-935bae14cf02.png" height="40em" alt="You can reach me on LinkedIn here" title="You can reach me on LinkedIn here" align="center"></img>
+</a>
 
 <!--
 **ClaireRes/ClaireRes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
