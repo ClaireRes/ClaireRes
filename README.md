@@ -1,10 +1,6 @@
 ### Hello 🌍, my name's Claire (she/her) 👋
 
-I'm a Software Engineer with 3 YoE working in London, with a background in Information & Bio Engineering!
-
-I have experience working on customer-facing and internal tools for collaborative data analysis, and building frameworks for automation of test hardware for wireless connectivity.
-
-My current day to day involves work as a BE Java dev ☕, but previously worked in Python 🐍 with some JavaScript 💻 for full stack web development, web automation and CLI-based projects, with the occasional bit of C/C++ thrown in!
+I'm a Software Engineer based in London, with a background in Information & Bio Engineering!
 
 #### 📙 Past Projects:
 Interested in all things ML/AI related (including the excellent early-noughties movie starring Jude Law 🤖...)?
